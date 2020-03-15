@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RedditTestGalexy</string>
+    <string name="please_wait">Please wait…</string>
+    <string name="author">Author:</string>
+    <string name="subreddit">Subreddit:</string>
+    <string name="post_date">Post date: </string>
+    <string name="popularity">Popularity:</string>
+    <string name="number_of_comments">Number of comments:</string>
+    <string name="toast_no_internet">Please check you internet connection</string>
+    <string name="hours_ago">%1$d hours ago</string>
+    <string name="days_ago">%1$d days ago</string>
+    <string name="minutes_ago">%1$d minutes ago</string>
+</resources>
